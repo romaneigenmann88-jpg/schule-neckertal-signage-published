@@ -1,6 +1,6 @@
 {
   "groupId": "OZN_EINGANG",
-  "version": "2026-06-05T11:53:43Z",
+  "version": "2026-06-05T12:19:52Z",
   "defaultSlideDurationSeconds": 12,
   "schedule": {
     "monday": {
@@ -94,7 +94,7 @@
     "theme": "transparent-dark"
   },
   "tickerLayer": {
-    "active": false,
-    "text": ""
+    "active": true,
+    "text": "TEST: Automatische Aktualisierung über GitHub funktioniert!"
   }
 }
