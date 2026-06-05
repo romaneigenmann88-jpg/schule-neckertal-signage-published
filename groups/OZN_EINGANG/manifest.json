@@ -1,6 +1,6 @@
 {
   "groupId": "OZN_EINGANG",
-  "version": "2026-06-05T14:38:49Z",
+  "version": "2026-06-05T14:49:16Z",
   "sourceCTag": "\"c:{31FD3E7A-9E78-40DF-8C5E-A6E5520420F8},19\"",
   "defaultSlideDurationSeconds": 12,
   "schedule": {
@@ -41,22 +41,22 @@
     "type": "renderedPowerPoint",
     "slides": [
       {
-        "file": "slides/2026-06-05T14-38-49Z/slide-001.png",
+        "file": "slides/2026-06-05T14-49-16Z/slide-001.png",
         "durationSeconds": 12,
         "sourceSlideNumber": 2
       },
       {
-        "file": "slides/2026-06-05T14-38-49Z/slide-002.png",
+        "file": "slides/2026-06-05T14-49-16Z/slide-002.png",
         "durationSeconds": 5,
         "sourceSlideNumber": 3
       },
       {
-        "file": "slides/2026-06-05T14-38-49Z/slide-003.png",
+        "file": "slides/2026-06-05T14-49-16Z/slide-003.png",
         "durationSeconds": 5,
         "sourceSlideNumber": 4
       },
       {
-        "file": "slides/2026-06-05T14-38-49Z/slide-004.png",
+        "file": "slides/2026-06-05T14-49-16Z/slide-004.png",
         "durationSeconds": 10,
         "sourceSlideNumber": 5
       }
